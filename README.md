@@ -1,4 +1,3 @@
-# todo
 # Ex03 To-Do List using JavaScript
 # Date:17.08.2026
 # Reg no : 212224040076
