@@ -1,13 +1,11 @@
 # todo
-Ex03 To-Do List using JavaScript
-
-Date:17.08.2026
-
-Reg no : 212224040076
-AIM
+# Ex03 To-Do List using JavaScript
+# Date:17.08.2026
+# Reg no : 212224040076
+# AIM
 To create a To-do Application with all features using JavaScript.
 
-ALGORITHM
+# ALGORITHM
 STEP 1
 Build the HTML structure (index.html).
 
@@ -38,7 +36,7 @@ Deploy the website.
 STEP 10
 Upload to GitHub Pages for free hosting.
 
-PROGRAM
+# PROGRAM
 ```
 HTML
 <!DOCTYPE html>
@@ -351,8 +349,8 @@ function saveTasks() {
 
 displayTasks(tasks);
 ```
-OUTPUT
+# OUTPUT
 ![alt text](<Screenshot 2026-08-17 113728.png>)
 
-RESULT
+# RESULT
 The program for creating To-do list using JavaScript is executed successfully.
